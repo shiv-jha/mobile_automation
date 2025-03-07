@@ -1,6 +1,5 @@
-C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_local_test\BrowserStackJUnitTest.java
-C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_first_test\FirstTest.java
-C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_parallel_test\ParallelTest.java
-C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_local_test\LocalTest.java
-C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_first_test\BrowserStackJUnitTest.java
-C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_parallel_test\BrowserStackJUnitTest.java
+C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\common\Utilities.java
+C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_first_test\BrowserstackAndroid2.java
+C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_first_test\ValidateIOSApp.java
+C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_first_test\BrowserstackAndroid.java
+C:\work\app\junit-appium-app-browserstack\android\junit5-examples\src\test\java\com\browserstack\run_first_test\BrowserstackIOS.java
